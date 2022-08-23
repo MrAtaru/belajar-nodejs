@@ -7,8 +7,8 @@ console.log(angka1 = 20);
 //not equals
 var sifat = "rajin";
 console.log("not equals");
-console.log(sifat != "malas");
-console.log(sifat != "bandel");
+console.log(sifat != "malas");//true
+console.log(sifat != "bandel");//true
 
 // strict equals
 var angka2 = 8;
